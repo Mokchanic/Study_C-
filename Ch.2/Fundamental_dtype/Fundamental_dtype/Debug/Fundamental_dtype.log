@@ -1,0 +1,7 @@
+﻿  fun_dtype.cpp
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Fundamental_dtype\fun_dtype.cpp(23,12): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Fundamental_dtype\fun_dtype.cpp(23,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Fundamental_dtype\fun_dtype.cpp(24,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Fundamental_dtype\fun_dtype.cpp(24,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Fundamental_dtype\fun_dtype.cpp(23,9): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  Fundamental_dtype.vcxproj -> E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\Debug\2.1 Fundamental_dtype.exe
