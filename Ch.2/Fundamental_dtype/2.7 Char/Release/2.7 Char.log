@@ -1,0 +1,3 @@
+﻿  char.cpp
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\2.7 Char\char.cpp(64,11): error C2371: 'c1': 재정의. 기본 형식이 다릅니다.
+E:\GitHub\Study_C_plus\Ch.2\Fundamental_dtype\2.7 Char\char.cpp(8): message : 'c1' 선언을 참조하십시오.
