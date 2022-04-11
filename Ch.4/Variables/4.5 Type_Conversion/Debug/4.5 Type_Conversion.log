@@ -1,0 +1,3 @@
+﻿  type_conv.cpp
+E:\GitHub\Study_C_plus\Ch.4\Variables\4.5 Type_Conversion\type_conv.cpp(15,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4.5 Type_Conversion.vcxproj -> E:\GitHub\Study_C_plus\Ch.4\Variables\Debug\4.5 Type_Conversion.exe
