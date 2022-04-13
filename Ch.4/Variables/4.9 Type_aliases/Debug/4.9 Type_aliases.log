@@ -1,0 +1,4 @@
+﻿  type_aliases.cpp
+E:\GitHub\Study_C_plus\Ch.4\Variables\4.9 Type_aliases\type_aliases.cpp(12,13): warning C4101: 'home2work' :참조되지 않은 지역 변수입니다.
+E:\GitHub\Study_C_plus\Ch.4\Variables\4.9 Type_aliases\type_aliases.cpp(11,13): warning C4101: 'my_distance' :참조되지 않은 지역 변수입니다.
+  4.9 Type_aliases.vcxproj -> E:\GitHub\Study_C_plus\Ch.4\Variables\Debug\4.9 Type_aliases.exe

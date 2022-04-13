@@ -24,11 +24,11 @@
 //
 //void doSomething();
 //
-//int main()
-//{
-//	cout << "In main.cpp file " << Constants::pi << " " << &Constants::pi << endl;
-//
-//	doSomething();
-//
-//	return 0;
-//}
+int main()
+{
+	//cout << "In main.cpp file " << Constants::pi << " " << &Constants::pi << endl;
+
+	//doSomething();
+
+	return 0;
+}

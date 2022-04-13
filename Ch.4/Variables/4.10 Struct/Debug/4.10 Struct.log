@@ -1,0 +1,3 @@
+﻿  struct2.cpp
+E:\GitHub\Study_C_plus\Ch.4\Variables\4.10 Struct\struct2.cpp(16,11): warning C4101: 'emp1' :참조되지 않은 지역 변수입니다.
+  4.10 Struct.vcxproj -> E:\GitHub\Study_C_plus\Ch.4\Variables\Debug\4.10 Struct.exe
