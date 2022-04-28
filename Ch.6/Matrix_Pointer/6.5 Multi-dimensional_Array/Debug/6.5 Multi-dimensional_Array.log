@@ -1,0 +1,3 @@
+﻿  multi_dim_array.cpp
+E:\GitHub\Study_C_plus\Ch.6\Matrix_Pointer\6.5 Multi-dimensional_Array\multi_dim_array.cpp(51,6): warning C4101: 'array' :참조되지 않은 지역 변수입니다.
+  6.5 Multi-dimensional_Array.vcxproj -> E:\GitHub\Study_C_plus\Ch.6\Matrix_Pointer\Debug\6.5 Multi-dimensional_Array.exe
