@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch7.8 Default Parameters", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch7.9 Function Pointers", "ch7.9 Function Pointers\ch7.9 Function Pointers.vcxproj", "{344556ED-26CF-4B29-9128-A210875499EA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch7.11 Stack with vector", "ch7.11 Stack with vector\ch7.11 Stack with vector.vcxproj", "{676926EA-A051-40FF-9ADB-4226464F6943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{344556ED-26CF-4B29-9128-A210875499EA}.Release|x64.Build.0 = Release|x64
 		{344556ED-26CF-4B29-9128-A210875499EA}.Release|x86.ActiveCfg = Release|Win32
 		{344556ED-26CF-4B29-9128-A210875499EA}.Release|x86.Build.0 = Release|Win32
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Debug|x64.ActiveCfg = Debug|x64
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Debug|x64.Build.0 = Debug|x64
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Debug|x86.ActiveCfg = Debug|Win32
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Debug|x86.Build.0 = Debug|Win32
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Release|x64.ActiveCfg = Release|x64
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Release|x64.Build.0 = Release|x64
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Release|x86.ActiveCfg = Release|Win32
+		{676926EA-A051-40FF-9ADB-4226464F6943}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
