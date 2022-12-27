@@ -1,0 +1,4 @@
+﻿  MIL.cpp
+E:\GitHub\Study_C_plus\Ch.8\ObjectOriented\ch8.4 Member_Initializer_List\MIL.cpp(31,1): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+E:\GitHub\Study_C_plus\Ch.8\ObjectOriented\ch8.4 Member_Initializer_List\MIL.cpp(31,9): warning C4309: '=': 상수 값이 잘립니다.
+  ch8.4 Member_Initializer_List.vcxproj -> E:\GitHub\Study_C_plus\Ch.8\ObjectOriented\x64\Debug\ch8.4 Member_Initializer_List.exe
